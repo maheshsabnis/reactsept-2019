@@ -6,7 +6,7 @@ export class HttpService {
     private url: string;
 
     constructor() {
-        this.url = 'http://apiapptrainingms.azurewebsites.net/api/Products'
+        this.url = '<YOUR URL HERE>'
     }
 
     getData = () => {

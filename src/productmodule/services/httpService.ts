@@ -12,7 +12,7 @@ export class HttpService {
     private url: string;
 
     constructor(){
-        this.url = "https://apiapptrainingms.azurewebsites.net/api/Products";
+        this.url = "<YOUR URL HERE>";
     }
 
     getData(){
